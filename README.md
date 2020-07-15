@@ -1,16 +1,31 @@
-### Hi there 👋
+### 👋 Hi there, thank you for passing by. 😄
 
-<!--
-**Mlk777/Mlk777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### **Who am I ?** 🤔
+I'm a community taugh JS dev fluent in both French and English currently looking for a position as a full-stack software engineer.
+My main stack is **JavaScript** but I'm open to learn other languages like Python or PHP (Laravel).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### **Goals for 2020** 🔭
+- Find a job (available from september)👨‍💻
+- Contribute to open-source
+- Grow my network
+- Collaborate on a project with other devs 🤝  
+- More travel 🌍  
+- Do more music 🎹 
+
+### **What I’m currently learning** 🌱
+- TypeScript
+- GraphQL
+- Framer motion
+- Test (Jest, react-testing-library)
+
+Later:
+- React-native
+- Laravel
+- Python
+
+### **Wanna reach me ?** ☕️
+👉  @ me on [Twitter](https://twitter.com/WeisTheWise)<br>
+🖖  say hey on [LinkedIn](https://www.linkedin.com/in/wesley-tancelin/)<br>
+📫  send an email to `-join (&quot;7765736C65792E74616E63656C696E40676D61696C2E636F6D&quot; -split&quot;(?<=\G.{2})&quote;|where{$_}|%{[char][int]&quote;0x$_&quot;})`
