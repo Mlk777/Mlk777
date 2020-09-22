@@ -15,6 +15,7 @@ My main stack is **JavaScript** but I'm open to learn other languages like Pytho
 - Do more music 🎹 
 
 ### **What I’m currently learning** 🌱
+- DevOps (AWS)
 - TypeScript
 - GraphQL
 - Framer motion
@@ -26,6 +27,6 @@ Later:
 - Python
 
 ### **Wanna reach me ?** ☕️
-👉  @ me on [Twitter](https://twitter.com/WeisTheWise)<br>
-🖖  say hey on [LinkedIn](https://www.linkedin.com/in/wesley-tancelin/)<br>
-📫  send an email to `-join (&quot;7765736C65792E74616E63656C696E40676D61696C2E636F6D&quot; -split&quot;(?<=\G.{2})&quote;|where{$_}|%{[char][int]&quote;0x$_&quot;})`
+@ me on [Twitter](https://twitter.com/WeisTheWise)<br>
+✌️ Say hey on [LinkedIn](https://www.linkedin.com/in/wesley-tancelin/)<br>
+Send an email to `-join (&quot;7765736C65792E74616E63656C696E40676D61696C2E636F6D&quot; -split&quot;(?<=\G.{2})&quote;|where{$_}|%{[char][int]&quote;0x$_&quot;})`
